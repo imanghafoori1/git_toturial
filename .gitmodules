@@ -1,0 +1,3 @@
+[submodule "eloquent-rating"]
+	path = eloquent-rating
+	url = https://github.com/imanghafoori1/eloquent-rating.git
